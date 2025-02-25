@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson1.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lesson1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lesson1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lesson1.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lesson1.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lesson1.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lesson1.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lesson1.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lesson1.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.iml" filepath="$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.main.iml" filepath="$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.unitTest.iml" />
+    </modules>
+  </component>
+</project>
