@@ -6,3 +6,5 @@
 \
 \
 Практическая работа №1 расоложена в ветке Lesson1: https://github.com/ksu9999/RMKABIAS/tree/Lesson1 
+\
+Отчет по практической работе №1: https://github.com/ksu9999/RMKABIAS/blob/main/Солдатенкова_пз1_РМКАБИАС.docx
