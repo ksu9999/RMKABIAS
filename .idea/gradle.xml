@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/app/activitylifecycle" />
             <option value="$PROJECT_DIR$/app/intentfilter" />
             <option value="$PROJECT_DIR$/app/multiactivity" />
+            <option value="$PROJECT_DIR$/app/notificationapp" />
             <option value="$PROJECT_DIR$/app/toastapp" />
             <option value="$PROJECT_DIR$/multiactivity" />
           </set>
