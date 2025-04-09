@@ -8,3 +8,8 @@
 Практическая работа №1 находится в ветке Lesson1: https://github.com/ksu9999/RMKABIAS/tree/Lesson1 
 \
 Отчет по практической работе №1: https://github.com/ksu9999/RMKABIAS/blob/main/Солдатенкова_пз1_РМКАБИАС.docx
+\
+\
+Практическая работа №2 находится в ветке Lesson2: https://github.com/ksu9999/RMKABIAS/tree/Lesson2 
+\
+Отчет по практической работе №2: https://github.com/ksu9999/RMKABIAS/blob/main/Солдатенкова_пз2_РМКАБИАС.docx
