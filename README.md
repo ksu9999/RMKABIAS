@@ -13,3 +13,11 @@
 Практическая работа №2 находится в ветке Lesson2: https://github.com/ksu9999/RMKABIAS/tree/Lesson2 
 \
 Отчет по практической работе №2: https://github.com/ksu9999/RMKABIAS/blob/main/Солдатенкова_пз2_РМКАБИАС.docx
+\
+\
+Практическая работа №3 находится в ветке Lesson3: https://github.com/ksu9999/RMKABIAS/tree/Lesson3
+\
+MireaProject для практической работы №3 находится в ветке MireaProject: https://github.com/ksu9999/RMKABIAS/tree/MireaProject
+\
+Отчет по практической работе №3: https://github.com/ksu9999/RMKABIAS/blob/main/Солдатенкова_пз3_РМКАБИАС.docx
+\
