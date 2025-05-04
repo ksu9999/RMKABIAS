@@ -32,4 +32,10 @@
         android:name="ru.mirea.soldatenkovaka.mireaproject.WebViewFragment"
         android:label="fragment_web_view"
         tools:layout="@layout/fragment_web_view" />
+    <fragment
+        android:id="@+id/nav_worker"
+        android:name="ru.mirea.soldatenkovaka.mireaproject.WorkerFragment"
+        android:label="fragment_web_view"
+        tools:layout="@layout/fragment_web_view" />
+
 </navigation>

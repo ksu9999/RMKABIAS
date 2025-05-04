@@ -24,5 +24,9 @@
             android:id="@+id/nav_web_webview"
             android:icon="@drawable/ic_stat_name"
             android:title="WebView" />
+        <item
+            android:id="@+id/nav_worker"
+            android:icon="@drawable/ic_stat_name3"
+            android:title="Worker" />
     </group>
 </menu>
