@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/cryptoloader" />
+            <option value="$PROJECT_DIR$/app/data_thread" />
+            <option value="$PROJECT_DIR$/app/looper" />
+            <option value="$PROJECT_DIR$/app/musicplayer" />
+            <option value="$PROJECT_DIR$/app/serviceapp" />
+            <option value="$PROJECT_DIR$/app/thread" />
+            <option value="$PROJECT_DIR$/app/workmanager" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
