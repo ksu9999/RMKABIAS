@@ -28,5 +28,18 @@
             android:id="@+id/nav_worker"
             android:icon="@drawable/ic_stat_name3"
             android:title="Worker" />
+        <item
+            android:id="@+id/nav_datchik"
+            android:icon="@drawable/ic_stat_name5"
+            android:title="Datchik" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_stat_name4"
+            android:title="Camera" />
+        <item
+            android:id="@+id/nav_audio"
+            android:icon="@drawable/ic_stat_name6"
+            android:title="Audio" />
+
     </group>
 </menu>

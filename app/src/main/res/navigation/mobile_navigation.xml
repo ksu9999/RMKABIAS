@@ -35,7 +35,21 @@
     <fragment
         android:id="@+id/nav_worker"
         android:name="ru.mirea.soldatenkovaka.mireaproject.WorkerFragment"
-        android:label="fragment_web_view"
-        tools:layout="@layout/fragment_web_view" />
-
+        android:label="fragment_worker"
+        tools:layout="@layout/fragment_worker" />
+    <fragment
+        android:id="@+id/nav_datchik"
+        android:name="ru.mirea.soldatenkovaka.mireaproject.DatchikFragment"
+        android:label="fragment_datchik"
+        tools:layout="@layout/fragment_datchik" />
+    <fragment
+        android:id="@+id/nav_camera"
+        android:name="ru.mirea.soldatenkovaka.mireaproject.CameraFragment"
+        android:label="fragment_camera"
+        tools:layout="@layout/fragment_camera" />
+    <fragment
+        android:id="@+id/nav_audio"
+        android:name="ru.mirea.soldatenkovaka.mireaproject.AudioFragment"
+        android:label="fragment_audio"
+        tools:layout="@layout/fragment_audio" />
 </navigation>
