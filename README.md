@@ -27,5 +27,11 @@ MireaProject для практической работы №3 находитс�
 MireaProject для практической работы №4 находится в ветке MireaProject: https://github.com/ksu9999/RMKABIAS/tree/MireaProject
 \
 Отчет по практической работе №4: https://github.com/ksu9999/RMKABIAS/blob/main/Солдатенкова_пз4_РМКАБИАС.docx
-
+\
+\
+Практическая работа №5 находится в ветке Lesson5: https://github.com/ksu9999/RMKABIAS/tree/Lesson5
+\
+MireaProject для практической работы №5 находится в ветке MireaProject: https://github.com/ksu9999/RMKABIAS/tree/MireaProject
+\
+Отчет по практической работе №5: https://github.com/ksu9999/RMKABIAS/blob/main/Солдатенкова_пз5_РМКАБИАС.docx
 
