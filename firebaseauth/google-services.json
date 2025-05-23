@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780490021654",
+    "project_id": "favoritebook-b5a98e5f",
+    "storage_bucket": "favoritebook-b5a98e5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780490021654:android:b8974ebef7e2d261a30e37",
+        "android_client_info": {
+          "package_name": "ru.mirea.soldatenkovaka.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI69TAFcGx3ncufyksJbf0v_DDBJuAmTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
